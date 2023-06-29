@@ -11,7 +11,7 @@ html {
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(to bottom, #FCA5F3, #FCD5F4);
+  background: linear-gradient(to bottom, #fccff6, #f7ecf4);
   font-family: 'Poppins', sans-serif;
 }
 
